@@ -18,6 +18,7 @@
 需求响应云平台（`Java`、`Spring`、`CES`、`MySQL`、`Tomcat`）
   - 负责在阿里云CES服务器上部署MySQL数据库、Tomcat服务等
   - 使用Spring架构开发
+  - MySQL数据库
 
 #### IT技能
 
@@ -38,3 +39,4 @@
 - 技术博客: http://www.cnblogs.com/ning-wang
 - GitHub: https://github.com/git-ning
 - 语言: 英语 - 熟练(`CET-6`)
+- 爱好：跑步、音乐、阅读
